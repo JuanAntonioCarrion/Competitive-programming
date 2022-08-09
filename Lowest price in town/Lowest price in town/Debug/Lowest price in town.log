@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\juana\source\repos\Lowest price in town\Lowest price in town\Source.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juana\source\repos\Lowest price in town\Lowest price in town\Source.cpp(51,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juana\source\repos\Lowest price in town\Lowest price in town\Source.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+  Lowest price in town.vcxproj -> C:\Users\juana\source\repos\Lowest price in town\Debug\Lowest price in town.exe

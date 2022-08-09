@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\juana\source\repos\Page hopping\Page hopping\Source.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\juana\source\repos\Page hopping\Page hopping\Source.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+  Page hopping.vcxproj -> C:\Users\juana\source\repos\Page hopping\Debug\Page hopping.exe
